@@ -13,8 +13,8 @@
 Write markdown.md for:
 * [ ] jDan734_bot
 * [ ] QtGithub
-* [ ] canobu
-* [ ] wikitermia
+* [x] canobu
+* [x] wikitermia
 * [ ] qtscp
 * [ ] qtcalc
 * [ ] qtkanobu
