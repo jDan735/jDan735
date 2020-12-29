@@ -1,29 +1,29 @@
 # jDan734's todo
 ## Code
-[ ] Learn vim
-[ ] Finish writing qtgithub
-[x] Add to qtcanobu database
-[ ] Add to qtcanobu server
-[ ] Write kanobu-server on php
-[ ] Finish writing the bot
-[ ] Try write becanobu on g++2
-[ ] Learn a writing of cool markdown files
+* [ ] Learn vim
+* [ ] Finish writing qtgithub
+* [x] Add to qtcanobu database
+* [ ] Add to qtcanobu server
+* [ ] Write kanobu-server on php
+* [ ] Finish writing the bot
+* [ ] Try write becanobu on g++2
+* [ ] Learn a writing of cool markdown files
 
 ### Markdown
 Write markdown.md for:
-[ ] jDan734_bot
-[ ] QtGithub
-[ ] canobu
-[ ] wikitermia
-[ ] qtscp
-[ ] qtcalc
-[ ] qtkanobu
-[ ] hoi3tools
+* [ ] jDan734_bot
+* [ ] QtGithub
+* [ ] canobu
+* [ ] wikitermia
+* [ ] qtscp
+* [ ] qtcalc
+* [ ] qtkanobu
+* [ ] hoi3tools
 
 ### Bot
-[ ] Add all wiki
-[ ] Return calc, eval for everyone
+* [ ] Add all wiki
+* [ ] Return calc, eval for everyone
 
 ## Life
-[ ] Stop speak "sorry", swear
-[ ] Repeat chemistry
+* [ ] Stop speak "sorry", swear
+* [ ] Repeat chemistry
