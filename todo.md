@@ -20,7 +20,7 @@ Write markdown.md for:
 * [ ] hoi3tools
 
 ### Bot
-* [ ] Add all wiki
+* [x] Add all wiki
 * [x] Return calc, eval
 
 ## Life
