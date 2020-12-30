@@ -21,7 +21,7 @@ Write markdown.md for:
 
 ### Bot
 * [ ] Add all wiki
-* [ ] Return calc, eval for everyone
+* [ ] Return calc, eval
 
 ## Life
 * [ ] Stop speak "sorry", swear
