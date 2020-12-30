@@ -11,7 +11,6 @@
 
 ### Markdown
 Write markdown.md for:
-* [ ] jDan734_bot
 * [ ] QtGithub
 * [x] canobu
 * [x] wikitermia
