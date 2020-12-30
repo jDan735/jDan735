@@ -7,7 +7,7 @@
 * [ ] Write kanobu-server on php
 * [x] Finish writing the bot
 * [ ] Try write becanobu on g++2
-* [ ] Learn a writing of cool markdown files
+* [x] Learn a writing of cool markdown files
 
 ### Markdown
 Write markdown.md for:
