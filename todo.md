@@ -14,6 +14,7 @@ Write markdown.md for:
 * [ ] QtGithub
 * [x] canobu
 * [x] wikitermia
+* [x] jDan735.github.io
 * [ ] qtscp
 * [ ] qtcalc
 * [ ] qtkanobu
