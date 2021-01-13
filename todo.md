@@ -19,10 +19,18 @@ Write markdown.md for:
 * [ ] qtcalc
 * [ ] qtkanobu
 * [ ] hoi3tools
+* [ ] tghtml
+* [ ] pyduckgo
 
-### Bot
+### Bots
 * [x] Add all wiki
 * [x] Return calc, eval
+* [ ] Rewrite c4p bot
+* [ ] Add to bot DDG search
+* [ ] Update jbash
+* [ ] Rewrite jababot
+* [ ] Add site parser
+* [ ] Update random, add features 
 
 ## Life
 * [ ] Stop speak "sorry", swear
