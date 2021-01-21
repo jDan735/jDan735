@@ -26,7 +26,7 @@ Write markdown.md for:
 * [x] Add all wiki
 * [x] Return calc, eval
 * [ ] Rewrite c4p bot
-* [ ] Add to bot DDG search
+* [X] Add to bot DDG search
 * [ ] Update jbash
 * [ ] Rewrite jababot
 * [ ] Add site parser
